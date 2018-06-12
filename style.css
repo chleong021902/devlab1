@@ -60,3 +60,15 @@
 .contact p{
     margin: 30px;
 }
+
+#books {
+    text-align: center;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.awords {
+    color:#e89714;
+    font-family: 'Permanent Marker', cursive;
+}
