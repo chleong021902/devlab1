@@ -1,0 +1,62 @@
+.row{   
+
+    background-color:#e89714;
+    color:white;
+    font-size:20px;
+}
+
+.row.mid{
+    font-family: 'Eater', cursive;
+
+}
+
+.row.aboutme {
+    text-align: center;
+}
+
+.row.aboutme img{
+    width: 75%;
+    height: 25%;
+}
+
+.row.footer{
+    display: flex;
+}
+.row.footer p{
+    margin: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.row.contact{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.mid {
+    display: flex;
+}
+
+.headshot{
+    width:60%;
+    margin: 30px;
+   
+}
+.mid{
+    background-color:white;
+    color:#e89714;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid #e89714;   
+}
+
+.contact {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact p{
+    margin: 30px;
+}
